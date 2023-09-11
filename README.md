@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript, React, Ruby, Ruby on Rails, SQL, MongoDB and PostgreSQL**
 
-- 👨‍💻 All of my projects are available at [https://newtayo.github.io/Portfolio-Setup/](https://newtayo.github.io/Portfolio-Setup/)
+- 👨‍💻 All of my projects are available at [https://omotayo-akande.onrender.com/](https://omotayo-akande.onrender.com/)
 
 - 💬 Ask me about **Javascript, Html and CSS**
 
