@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=newtayo" alt="newtayo" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript, React, Ruby, Ruby on Rails, SQL, MongoDB and PostgreSQL**
+- 🌱 Here are my stack **Javascript, React, Ruby, Ruby on Rails, SQL, MongoDB and PostgreSQL**
 
 - 👨‍💻 All of my projects are available at [https://omotayo-akande.onrender.com/](https://omotayo-akande.onrender.com/)
 
