@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://omotayo-akande.onrender.com/](https://omotayo-akande.onrender.com/)
 
-- 💬 Ask me about **Javascript, Html and CSS**
+- 💬 Ask me about **Javascript, Html, CSS, React, Node JS, Ruby and Rails**
 
 - 📫 How to reach me **akandeabdul@gmail.com**
 
